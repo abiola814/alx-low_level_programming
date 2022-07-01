@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* more headers goes there 
+*more headers goes there 
 *
-* description solve the problem
+*description solve the problem
 *
-* betty style doc for function main goes there 
+*betty style doc for function main goes there 
 */
 int main(void)
 {

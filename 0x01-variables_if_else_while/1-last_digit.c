@@ -1,7 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/** more headers goes there 
+/**
+* more headers goes there 
+*
+* description solve the problem
 *
 * betty style doc for function main goes there 
 */
@@ -17,7 +20,7 @@ int main(void)
 	}
 	else if ((n%10)==0)
 	{
-		printf(" and not 0\n");
+		printf(" and is 0\n");
 	}
 	else
 	{

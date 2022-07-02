@@ -6,9 +6,9 @@
 /**
  *  * main - the last digit
  *   * @void: empty parameter list for main.
- * *
- *  *Description: print last digit of random number to tell if it is > 
  *
+ * Description: print last digit of random number to tell if it is >
+ * 
  *       * Return: Always 0 (Success)
 */
 int main(void)

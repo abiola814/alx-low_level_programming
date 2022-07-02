@@ -1,26 +1,33 @@
 #include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
-/** more headers goes there 
-*
-*betty style doc for function main goes there 
-*/
+#include <time.h>
+
+/**
+ *  * main - prints alphabet
+ *   * @void: empty parameter list for main.
+ *    *
+ *     * Description: print the alphabet in lower and upper case
+ *      * can only use putchar
+ *       *
+ *        * Return: Always 0 (Success)
+ *         */
 int main(void)
 {
-	int n;
+		char letter = 'a';
 
-	srand(time(0));
-	n = rand() - RAND_MAX / 2;
-	char word = 'a';
-	while( word <='z')
-	{
-		putchar(word);
-		word++;
-	}
-	char WORD = 'A';
-	for (WORD='A',WORD<='Z',WORD++)
-	{
-		putchar(WORD);
-	]
-	putchar('\n');
-	return (0);
+			while (letter <= 'z')
+					{
+								putchar(letter);
+										letter++;
+											}
+
+				letter = 'A';
+
+					while (letter <= 'Z')
+							{
+										putchar(letter);
+												letter++;
+													}
+						putchar('\n');
+							return (0);
+}

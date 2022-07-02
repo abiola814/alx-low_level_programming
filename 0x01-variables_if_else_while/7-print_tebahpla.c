@@ -3,22 +3,22 @@
 #include <time.h>
 
 /**
- *  * main - Prints alphabet
+ *  * main - prints alphabet
  *   * @void: empty parameter list for main.
  *    *
- *     * Description: prints the alphabet in lower case
+ *     * Description: prints the alphabet in reverse order
  *      * can only use putchar
  *       *
  *        * Return: Always 0 (Success)
  *         */
 int main(void)
 {
-		char letter = 'a';
+		char letter = 'z';
 
-			while (letter <= 'z')
+			while (letter >= 'a')
 					{
 								putchar(letter);
-										letter++;
+										letter--;
 											}
 				putchar('\n');
 					return (0);

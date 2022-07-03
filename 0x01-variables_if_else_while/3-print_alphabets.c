@@ -7,7 +7,7 @@
  *	@void: empty parameter list for main.
  *
  *	Description: print the alphabet in lower and upper case
- * 	can only use putchar
+ *	can only use putchar
  *
  *	Return: Always 0 (Success)
  *

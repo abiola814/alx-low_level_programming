@@ -2,6 +2,7 @@
 
 /**
  * use putchar to print putchar and a new line
+ *
  * Return: zero to confirm it was successful
  */
 int main(void)
@@ -15,6 +16,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
 	return (0);
 }

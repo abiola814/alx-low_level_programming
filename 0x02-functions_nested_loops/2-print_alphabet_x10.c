@@ -13,7 +13,6 @@ void print_alphabet(void)
 		_putchar(i);
 	}
 	_putchar('\n');
-    
 }
 
 /**
@@ -27,6 +26,5 @@ void print_alphabet_x10(void)
 	for (i = '0'; i <= '9'; i++)
 	{
 		print_alphabet();
-    }
-    _putchar('\n');
+	}
 }

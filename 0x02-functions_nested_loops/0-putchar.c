@@ -3,9 +3,9 @@
 /**
  * use putchar to print putchar and a new line
  *
+ *  @c: character to be checked if lower case
  *   Return: zero to confirm it was successful
-*/
-
+ */
 int main(void)
 {
 

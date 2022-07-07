@@ -1,0 +1,1 @@
+learning pointer and array in c language

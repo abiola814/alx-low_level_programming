@@ -2,7 +2,7 @@
 #include "variadic_functions.h"
 
 /**
- * main - check the code for Holberton School students.
+ * main - check the code for  Scss.
  *
  * Return: Always 0.
  */

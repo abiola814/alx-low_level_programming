@@ -1,24 +1,13 @@
-# 0x0C-more_malloc_free
-## main.h
-> Header contains all function prototypes of functions in this project.
+File 0-malloc_checked.c is a function that allocates memory using malloc.
 
+File 1-string_nconcat.c is a function that concatenates two strings.
 
+File 2-calloc.c is a function that allocates memory for an array, using malloc.
 
-``` MANDATORY```
+File 3-array_range.c is a function that creates an array of integers.
 
-## 0-malloc_checked.c
-> A function that allocates memory using ``` malloc ```.
-## 1-string_nconcat.c
-> A function that concatenates two strings.
-## 2-callloc.c
-> A function that allocates memory of an array using malloc.
-## 3-array_range.c
-> A function that creates an array of integers.
+File 100-realloc.c is a function that reallocates a memory block using malloc and free.
 
-```ADVANCED```
+File 101-mul.c is a program that multiplies two positive numbers.
 
-## 100-realloc.c
-> A function that reallocates a memory block using malloc and free.
-# 101-mul.c
-> A function that multiplies two positive numbers.
-
+File main.h is the header file for all the function prototypes..
